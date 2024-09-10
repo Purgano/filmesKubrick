@@ -17,7 +17,7 @@ const filmesKubrick = [
       imdb: "https://www.imdb.com/title/tt0048237/",
       tags: "noir crime boxeador Killer's Kiss"
     },	
-	{
+    {
       titulo: "O Grande Golpe",
       ano: 1956,
       genero: "Crime, Drama",
@@ -39,12 +39,12 @@ const filmesKubrick = [
      titulo: "Spartacus",
      ano: 1960,
      genero: "Épico Histórico",
-     sinopse: ​​Um épico histórico sobre a rebelião de escravos liderada por Spartacus contra a República Romana.",
+     sinopse: "​​Um épico histórico sobre a rebelião de escravos liderada por Spartacus contra a República Romana.",
      wiki: "https://pt.wikipedia.org/wiki/Spartacus_(filme)",
      imdb: "https://www.imdb.com/title/tt0054385/",
      tags: "escravos rebelião roma espartacus"
-	},	
-	{
+    },	
+    {
       titulo: "Lolita",
       ano: 1962,
       genero: "Drama, Romance",
@@ -52,17 +52,17 @@ const filmesKubrick = [
       wiki: "https://pt.wikipedia.org/wiki/Lolita_(filme_de_1962)",
       imdb: "https://www.imdb.com/title/tt0056282/",
       tags: "romance controverso adolescente ninfeta"
-	},	
-	{
-	  titulo: "Dr. Fantástico",
+    },	
+    {
+      titulo: "Dr. Fantástico",
       ano: 1964,
       genero: "Comédia Negra, Ficção Científica",
       sinopse: "Uma comédia negra satírica sobre a Guerra Fria, onde um general da Força Aérea dos Estados Unidos ordena um ataque nuclear à União Soviética, desencadeando uma cadeia de eventos que ameaça a destruição do mundo.",
       wiki: "https://pt.wikipedia.org/wiki/Dr._Strangelove",
       imdb: "https://www.imdb.com/title/tt0057012/",
       tags: "guerra fria comédia nuclear satira Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
-	},	
-	{
+    },	
+    {
       titulo: "2001: Uma Odisseia no Espaço",
       ano: 1968,
       genero: "Ficção Científica",
@@ -80,7 +80,7 @@ const filmesKubrick = [
       imdb: "https://www.imdb.com/title/tt0066921/",
       tags: "futuro violencia alex noites gangues brigas A Clockwork Orange" 
     },	
-	{
+    {
       titulo: "Barry Lyndon",
       ano: 1975,
       genero: "Drama Histórico",
