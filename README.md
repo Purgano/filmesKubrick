@@ -1,4 +1,4 @@
-## **README.md Descontraído para sua Filmografia Kubrick**
+## ** Imersão dev_ Alura | com Google Gemini **
 
 ### ** Dando um role no cinema com Stanley Kubrick! **
 
